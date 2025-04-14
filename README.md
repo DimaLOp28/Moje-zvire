@@ -14,6 +14,6 @@
 - Tvorba větví a práce v "týmu"
 - Řešení konfliktu při slučování
  
-## Jak jsme zvládla konflikt:
+## Jak jsem zvládla konflikt:
 - Obě části programu měly soubor `main.py`, došlo ke konfliktu.
 - Konflikt jsem ručně vyřešila a spojila obě části do jednoho souboru.
